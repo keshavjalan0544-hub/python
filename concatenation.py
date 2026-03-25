@@ -1,4 +1,4 @@
-'''COncatenation is used to add two or more strings.'''
+'''Concatenation is used to add two or more strings.'''
 
 str1 = input("Enter the string first : ")
 str2 = input("Enter the string second : ")
